@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOSwangyihan'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'iOSwangyihan iOS wangyihan.'
 
 # This description is used to generate tags and improve search results.
@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
-
+  s.swift_versions = '4.0'
   s.source_files = 'iOSwangyihan/Classes/**/*'
   
   # s.resource_bundles = {
