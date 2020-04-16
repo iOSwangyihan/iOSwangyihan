@@ -1,8 +1,9 @@
 {
   "name": "iOSwangyihan",
   "version": "0.1.0",
-  "summary": "A short description of iOSwangyihan.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "wangyihan is a shuaige.",
+  "description": "iOSUtil",
+  "swift_versions": "4.0",
   "homepage": "https://github.com/iOSwangyihan/iOSwangyihan",
   "license": {
     "type": "MIT",
@@ -18,5 +19,6 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "iOSwangyihan/Classes/**/*"
+  "source_files": "iOSwangyihan/Classes/**/*",
+  "swift_version": "4.0"
 }
