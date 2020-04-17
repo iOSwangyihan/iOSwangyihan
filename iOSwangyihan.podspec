@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'iOSwangyihan'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'iOSwangyihan iOS wangyihan.'
 
 # This description is used to generate tags and improve search results.
